@@ -1,6 +1,6 @@
-package bilibili.simple;
+package bilibili.down.simple;
 
-import bilibili.config.Config;
+import bilibili.down.config.Config;
 import org.springframework.context.annotation.Import;
 
 /**
